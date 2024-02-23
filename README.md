@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor Nguyen</h1>
 <h3 align="center">An inspiring Software Developer from Edmonton, AB, Canada</h3>
 
-- 🔭 I’m currently working on [Web Development via the Odin Project](https://github.com/NVectors/Web_Dev)
-
-- 👯 I’m looking to collaborate on [Beautiful Music](https://github.com/NVectors/Beautiful-Music-Data)
 
 - 📫 How to reach me **victor3@ualberta.ca**
 
